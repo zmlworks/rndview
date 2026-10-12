@@ -1,0 +1,5 @@
+#include <winuser.h>
+/* アプリアイコン (ID 1: Explorer が最初のアイコンを使う) */
+1 ICON "app.ico"
+/* RT_MANIFEST (24), CREATEPROCESS_MANIFEST_RESOURCE_ID (1) */
+1 24 "app.manifest"
